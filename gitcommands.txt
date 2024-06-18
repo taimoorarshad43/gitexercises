@@ -32,6 +32,7 @@ git status
 git add adventure.txt
 git commit -m "Adding text" adventure.txt
 
+git log
 git checkout 3704242 -- adventure.txt
 git add adventure.txt
 git commit -m "Reverting adventure.txt to initial state"
